@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "66495392b8e155ea8494a572"
+  },
+  "title": "To Kill a Mockingbird",
+  "name": "Harper Lee",
+  "price": 10.99,
+  "category": "Classic",
+  "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=3&uuid=596e77d9-37d0-46df-917c-a6ba13332159"
+},
+{
+  "_id": {
+    "$oid": "66495392b8e155ea8494a573"
+  },
+  "title": "1984",
+  "name": "George Orwell",
+  "price": 12.5,
+  "category": "free",
+  "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=3&uuid=596e77d9-37d0-46df-917c-a6ba13332159"
+},
+{
+  "_id": {
+    "$oid": "66495392b8e155ea8494a574"
+  },
+  "title": "The Great Gatsby",
+  "name": "F. Scott Fitzgerald",
+  "price": 9.75,
+  "category": "free",
+  "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=3&uuid=596e77d9-37d0-46df-917c-a6ba13332159"
+},
+{
+  "_id": {
+    "$oid": "66495392b8e155ea8494a575"
+  },
+  "title": "Pride and Prejudice",
+  "name": "Jane Austen",
+  "price": 8.99,
+  "category": "Romance",
+  "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=3&uuid=596e77d9-37d0-46df-917c-a6ba13332159"
+},
+{
+  "_id": {
+    "$oid": "66495392b8e155ea8494a576"
+  },
+  "title": "Harry Potter and the Philosopher's Stone",
+  "name": "J.K. Rowling",
+  "price": 15.99,
+  "category": "free",
+  "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=3&uuid=596e77d9-37d0-46df-917c-a6ba13332159"
+},
+{
+  "_id": {
+    "$oid": "66495392b8e155ea8494a577"
+  },
+  "title": "The Catcher in the Rye",
+  "name": "J.D. Salinger",
+  "price": 11.25,
+  "category": "Coming-of-age",
+  "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=3&uuid=596e77d9-37d0-46df-917c-a6ba13332159"
+},
+{
+  "_id": {
+    "$oid": "66495392b8e155ea8494a578"
+  },
+  "title": "To Kill a Mockingbird",
+  "name": "Harper Lee",
+  "price": 10.99,
+  "category": "Classic",
+  "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=3&uuid=596e77d9-37d0-46df-917c-a6ba13332159"
+},
+{
+  "_id": {
+    "$oid": "66495392b8e155ea8494a579"
+  },
+  "title": "The Lord of the Rings",
+  "name": "J.R.R. Tolkien",
+  "price": 18.99,
+  "category": "free",
+  "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=3&uuid=596e77d9-37d0-46df-917c-a6ba13332159"
+},
+{
+  "_id": {
+    "$oid": "66495392b8e155ea8494a57a"
+  },
+  "title": "Crime and Punishment",
+  "name": "Fyodor Dostoevsky",
+  "price": 13.5,
+  "category": "Psychological Fiction",
+  "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=3&uuid=596e77d9-37d0-46df-917c-a6ba13332159"
+},
+{
+  "_id": {
+    "$oid": "66495392b8e155ea8494a57b"
+  },
+  "title": "The Hobbit",
+  "name": "J.R.R. Tolkien",
+  "price": 14.75,
+  "category": "free",
+  "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=3&uuid=596e77d9-37d0-46df-917c-a6ba13332159"
+}]
